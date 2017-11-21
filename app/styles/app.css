@@ -1,0 +1,14 @@
+strong{
+    color:blue;
+}
+
+#main{
+    background-color: gray;
+    background-position: center;
+    padding-bottom: 100%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+button{
+    color:green;
+}
